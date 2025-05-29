@@ -1,6 +1,6 @@
 import requests
 
-BOT_TOKEN = "8189815354:AAGPgXUZlQp4e3aUSpTYY_bbYJv9Uc-9I10"
+BOT_TOKEN = "HIDDEN"
 CHAT_ID = "7704002914"
 
 message = "🚨 Telegram test: If you see this, your bot is working!"
