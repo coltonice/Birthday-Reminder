@@ -15,7 +15,7 @@ def load_birthdays():
 
 def send_telegram_message(message):
     """Send a message using Telegram Bot."""
-    url = f"https://api.telegram.org/bot{8189815354:AAGPgXUZlQp4e3aUSpTYY_bbYJv9Uc-9I10}/sendMessage"
+    url = f"https://api.telegram.org/bot{HIDDEN}/sendMessage"
     payload = {
         'chat_id': CHAT_ID,
         'text': message
